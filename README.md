@@ -10,3 +10,5 @@ A collection of packages to help create Minecraft Bedrock add-ons!
 - @lpsmods/mc-superstruct
 - @lpsmods/mc-utils
 - @lpsmods/mcaddon-bridge
+
+> Not associated with or approved by Mojang Studios or Microsoft

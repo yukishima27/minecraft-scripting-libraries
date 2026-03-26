@@ -2,7 +2,7 @@
 
 ![Version](https://shields.io/npm/v/@lpsmods/mc-dev)
 [![Downloads](https://shields.io/npm/dm/@lpsmods/mc-dev)](https://www.npmjs.com/package/@lpsmods/mc-dev)
-[![Issues](https://img.shields.io/github/issues/lpsmods/mc-utils)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
+[![Issues](https://img.shields.io/github/issues/lpsmods/minecraft-scripting-libraries)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
 
 Debug utilities for Minecraft Bedrock Edition Add-On development.
 

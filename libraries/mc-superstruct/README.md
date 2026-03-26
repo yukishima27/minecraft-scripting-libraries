@@ -2,7 +2,7 @@
 
 ![Version](https://shields.io/npm/v/@lpsmods/mc-superstruct)
 [![Downloads](https://shields.io/npm/dm/@lpsmods/mc-superstruct)](https://www.npmjs.com/package/@lpsmods/mc-superstruct)
-[![Issues](https://img.shields.io/github/issues/lpsmods/mc-utils)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
+[![Issues](https://img.shields.io/github/issues/lpsmods/minecraft-scripting-libraries)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
 
 Superstruct validation for Minecraft: Bedrock Edition types.
 

@@ -2,7 +2,7 @@
 
 ![Version](https://shields.io/npm/v/@lpsmods/mcaddon-bridge)
 [![Downloads](https://shields.io/npm/dm/@lpsmods/mcaddon-bridge)](https://www.npmjs.com/package/@lpsmods/mcaddon-bridge)
-[![Issues](https://img.shields.io/github/issues/lpsmods/mc-utils)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
+[![Issues](https://img.shields.io/github/issues/lpsmods/minecraft-scripting-libraries)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
 
 A package to communicate between Minecraft Add-Ons.
 

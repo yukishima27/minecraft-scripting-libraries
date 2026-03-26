@@ -2,7 +2,7 @@
 
 ![Version](https://shields.io/npm/v/@lpsmods/mc-common)
 [![Downloads](https://shields.io/npm/dm/@lpsmods/mc-common)](https://www.npmjs.com/package/@lpsmods/mc-common)
-[![Issues](https://img.shields.io/github/issues/lpsmods/mc-utils)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
+[![Issues](https://img.shields.io/github/issues/lpsmods/minecraft-scripting-libraries)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
 
 Common utilities for @lpsmods Minecraft: Bedrock Edition packages.
 

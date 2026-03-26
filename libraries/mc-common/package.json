@@ -29,7 +29,7 @@
     "api"
   ],
   "devDependencies": {
-    "@lpsmods/minecraft-server-mock": "^0.0.1",
+    "@lpsmods/minecraft-server-mock": "^0.0.2",
     "@minecraft/core-build-tasks": "^5.5.0",
     "@types/pako": "^2.0.4",
     "@typescript-eslint/eslint-plugin": "^8.57.2",

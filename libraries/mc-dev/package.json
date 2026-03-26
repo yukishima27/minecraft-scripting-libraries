@@ -29,7 +29,7 @@
     "developer"
   ],
   "devDependencies": {
-    "@lpsmods/minecraft-server-mock": "^0.0.1",
+    "@lpsmods/minecraft-server-mock": "^0.0.2",
     "@lpsmods/minecraft-server-ui-mock": "^0.0.1",
     "@minecraft/core-build-tasks": "^5.5.0",
     "@types/pako": "^2.0.4",

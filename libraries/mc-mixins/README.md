@@ -2,7 +2,7 @@
 
 ![Version](https://shields.io/npm/v/@lpsmods/mc-mixins)
 [![Downloads](https://shields.io/npm/dm/@lpsmods/mc-mixins)](https://www.npmjs.com/package/@lpsmods/mc-mixins)
-[![Issues](https://img.shields.io/github/issues/lpsmods/mcminecraft-scripting-libraries)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
+[![Issues](https://img.shields.io/github/issues/lpsmods/minecraft-scripting-libraries)](https://github.com/lpsmods/minecraft-scripting-libraries/issues)
 
 Adds @lpsmods/mc-utils functions to native objects.
 

@@ -28,6 +28,9 @@
     "scripting",
     "api"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@lpsmods/minecraft-server-mock": "^0.0.2",
     "@types/pako": "^2.0.4",

@@ -28,6 +28,9 @@
     "scripting",
     "developer"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@lpsmods/minecraft-server-mock": "^0.0.2",
     "@lpsmods/minecraft-server-ui-mock": "^0.0.1",

